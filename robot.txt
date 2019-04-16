@@ -1,0 +1,3 @@
+Usee-agent: *
+Disallow: /bitbug_favicon.ico
+sitemap: http://shuyuee.github.io.sitemap.xml
